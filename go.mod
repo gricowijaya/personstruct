@@ -1,3 +1,3 @@
-module github.com/gricowijaya/personstruct/v2
+module github.com/gricowijaya/personstruct/
 
 go 1.19
